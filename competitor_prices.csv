@@ -1,0 +1,6 @@
+service,metric,value,unit,source
+stats.fm,cheapest in-app purchase,2.99,USD,https://apppricinglab.com/app/apple/1526912392
+stats.fm,average in-app purchase,8.89,USD,https://apppricinglab.com/app/apple/1526912392
+stats.fm,most expensive in-app purchase,20.99,USD,https://apppricinglab.com/app/apple/1526912392
+stats.fm,users (app store description),13,mln,https://apps.apple.com/FR/app/id1526912392
+Spotify,Premium ARPU per month (Q2 2026),4.89,EUR,https://www.finanzen.at/nachrichten/aktien/spotify-turns-to-profit-in-q2-on-user-growth;-sees-sequential-growth-in-q3;-but-stock-down-1036405948
